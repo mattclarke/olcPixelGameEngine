@@ -2,6 +2,11 @@
   <a href="https://discord.gg/WhwHUMV"> <img src="https://img.shields.io/discord/380484403458998276?logo=discord"> </a>
 </p>
 
+# Fork news
+This is a fork of olcPixelGameEngine to enable me to build it on MacOS using CMake.
+It is based on the johnmarianhoffman:glfw_conversion branch which fixes an issue on Mac with
+the window being dimensionally twice as big as the image.
+
 # olcPixelGameEngine
 The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects.
 
